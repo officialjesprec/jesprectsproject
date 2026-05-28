@@ -11,7 +11,7 @@ const Hero = () => {
           system in a clear, data-driven way.
         </p>
         <div className="hero-buttons">
-          <a href="www.tsacademyonline.com" className="btn-primary">Explore the Data</a>
+          <a href="https://www.tsacademyonline.com" className="btn-primary">Explore the Data</a>
           <a href="#contact-section" className="btn-outline">Contact Us</a>
         </div>
       </div>
